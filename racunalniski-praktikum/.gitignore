@@ -9,3 +9,9 @@
 *.bbl
 *.blg
 *.pdf
+!slika.pdf
+*.ilg
+*.ind
+*.nav
+*.idx
+*.snm
